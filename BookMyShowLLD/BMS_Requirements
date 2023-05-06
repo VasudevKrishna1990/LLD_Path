@@ -22,6 +22,7 @@ Actors:
 -> Navigate to show location 
 -> Customer care
 -> Download ticket 
+-> Send SMS/ Email confirmation for booking
 -> Generate QR for fast authorization
 -> KYC details
 -> History of bookings
