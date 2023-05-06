@@ -1,0 +1,42 @@
+BookMyShow low level designing .
+
+
+Actors:
+-> Customer
+-> Search a show / movie (based on time , place/city,location ,show name , theatre name ,ratings)
+-> Book a show 
+-> Select seats
+-> Cancel show booking
+-> Payment 
+-> Rate a movie 
+-> comment on a show
+-> select food prefrence 
+ 
+
+
+-> System
+-> Show recently released /current and upcoming releases based on language / movie type(2D /3D) .
+-> Show shows based on your default or selected group of languages
+-> Show shows based on your current languages
+-> Restrict movies based on age
+-> Navigate to show location 
+-> Customer care
+-> Download ticket 
+-> Generate QR for fast authorization
+-> KYC details
+-> History of bookings
+
+
+-> Theatres
+-> Advertise a show with screen types /show types
+-> Add / Remove Screen types
+-> Pull down a show
+-> Throw food prefrences for customers 
+-> Change show timmings / screens
+-> 
+
+
+
+
+Open Questions : How to list down IMAX/3D/2D options for a movies.
+It looks like a theatre capability. 
